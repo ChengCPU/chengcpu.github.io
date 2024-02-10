@@ -1,5 +1,4 @@
 <script lang="ts">
-	import "tippy.js/dist/tippy.css";
 	import "../app.sass";
 	import { afterNavigate, beforeNavigate } from "$app/navigation";
 	import { browser } from "$app/environment";
