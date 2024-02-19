@@ -5,13 +5,12 @@
 	<title>chengcpu ~/Home</title>
 </svelte:head>
 
-<link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <div class="content h-card">
 	<p class="separator">
 		<img
 			class="u-photo"
 			src="/profile.webp"
-			alt="avatar of soopyc"
+			alt="avatar"
 		/>
 		<span class="p-name text-gold">cheng</span>
 		<span class="p-name text-love">lee</span>

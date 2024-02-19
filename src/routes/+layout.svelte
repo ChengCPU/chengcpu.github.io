@@ -74,7 +74,7 @@
 	<p>🇬🇧 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇪🇸 🇧🇷 🇭🇰</p>
 	<p>
 		The source code of this site can be viewed
-		<a href="//github.com/ChengCPU/chengpu.github.io">here</a>
+		<a href="//github.com/ChengCPU/chengcpu.github.io">here</a>
 	</p>
 
 	<noscript>
